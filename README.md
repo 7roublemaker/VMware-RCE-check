@@ -1,7 +1,7 @@
 # VMware-RCE-Check
     Check RCE vulnerability of VMware
     Include：
-        CVE-2021-
+        CVE-2021-21985
         CVE-2021-
         CVE-2021-
 # ENV
